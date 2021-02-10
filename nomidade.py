@@ -8,7 +8,7 @@ Original file is located at
 """
 
 name = input('Digite aqui seu nome: ')
-idade = float(input("Digite a sua idade: "))
+idade = int(input("Digite a sua idade: "))
 
 
 
